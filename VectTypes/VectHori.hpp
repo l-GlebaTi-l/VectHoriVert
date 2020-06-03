@@ -1,5 +1,6 @@
 class CStringHori : public CString {
 public:
+    using CString::operator=;
     CStringHori(char *str) : CString(str){}
     int output();
 };

@@ -25,7 +25,7 @@ public:
         }
         return f;
     }
-    void operator =(CString& f){
+    void operator=(CString& f){
         if(&data != &f.data){
             int i = 0;
             while(f.data[i] != '#'){

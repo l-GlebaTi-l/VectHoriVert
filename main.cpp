@@ -39,6 +39,12 @@ int main()
     fclose(file);
 
     Objects[0][0] = Objects[0][0] + Objects[1][0] + Objects[2][0];
+    CStringHori aa("aa.txt aa");
+    CStringVert bb("bb.txt bb");
+    CStringVert cc("cc.txt cc");
+    cc = aa + bb;
+    cc.output();
+
 
     for(int i = 0; i < N; i++){
         Objects[i] -> output();

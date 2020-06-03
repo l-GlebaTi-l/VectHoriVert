@@ -1,5 +1,6 @@
 class CStringVert : public CString {
 public:
+    using CString::operator=;
     CStringVert(char *str) : CString(str){}
     int output();
 };
