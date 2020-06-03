@@ -1,0 +1,3 @@
+0 01.txt hello my friend
+1 02.txt this is vert string
+0 03.txt One more hory

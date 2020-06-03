@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1587546931 source:c:\programs\vecthorivert\vecthori.cpp
+
+1587546931 source:c:\programs\vecthorivert\vectvert.cpp
+
+1590661191 source:c:\programs\vecthorivert\main.cpp
+	<iostream>
+	"VectTypes/Vect.hpp"
+	"Factory/Fabric.h"
+	"VectTypes/VectHori.hpp"
+	"VectTypes/VectVert.hpp"
+
+1587551062 c:\programs\vecthorivert\vect.hpp
+
+1587550853 source:c:\programs\vecthorivert\vect.cpp
+	<iostream>
+	"Vect.hpp"
+
+1589356373 source:c:\programs\vecthorivert\factory\fabric.cpp
+
+1590659073 source:c:\programs\vecthorivert\vecttypes\vect.cpp
+	<iostream>
+	"Vect.hpp"
+
+1590661084 c:\programs\vecthorivert\vecttypes\vect.hpp
+
+1589379662 source:c:\programs\vecthorivert\vecttypes\vecthori.cpp
+	<iostream>
+	"Vect.hpp"
+	"../Factory/Fabric.h"
+	"VectHori.hpp"
+
+1589379662 source:c:\programs\vecthorivert\vecttypes\vectvert.cpp
+	<iostream>
+	"Vect.hpp"
+	"../Factory/Fabric.h"
+	"VectVert.hpp"
+
+1589375952 c:\programs\vecthorivert\factory\fabric.h
+
+1589383570 c:\programs\vecthorivert\vecttypes\vecthori.hpp
+
+1589379781 c:\programs\vecthorivert\vecttypes\vectvert.hpp
+
+1589379662 c:\programs\vecthorivert\vecttypes\vecthori.cpp
+	<iostream>
+	"Vect.hpp"
+	"../Factory/Fabric.h"
+	"VectHori.hpp"
+
+1589379662 c:\programs\vecthorivert\vecttypes\vectvert.cpp
+	<iostream>
+	"Vect.hpp"
+	"../Factory/Fabric.h"
+	"VectVert.hpp"
+
